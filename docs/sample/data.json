@@ -16,31 +16,30 @@
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
-                "text_info": "Esta aplicación está pensada para poder ayudar a cualquiera a interesarse por la riqueza natural de Asturias. El",
+                "text_info": "Esta aplicación está pensada para poder ayudar a cualquiera a interesarse por la riqueza natural de Asturias. Promueve rutas y diferentes puntos de interés en la riqueza del paisaje asturiano. Asturias Paraiso Natural.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "LagosDeCovadonga",
+                    "lat": "43.27219267969067",
+                    "lon": "-4.9923967691425135",
+                    "type": "church",
+                    "name": "Subida a los Lagos de Covadonga",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://www.tuscasasrurales.com/blog/wp-content/uploads/2020/06/Lago-Enol-Covadonga.jpg",
+                        "https://guiadeasturias.com/wp-content/uploads/2017/11/santuario-lagos-covadonga-asturias-2.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Los Lagos de Covadonga son un punto de interés tanto natural como cultural por su majestuoso paisaje y su interesante historia. Estos lagos se encuentran en el Parque Nacional de los Picos de Europa, en Asturias, España. El parque es conocido por su belleza natural y es un destino popular para los amantes del senderismo y la naturaleza. Los Lagos de Covadonga son dos lagos glaciares, el Lago Enol y el Lago Ercina, que se encuentran a una altitud de 1.100 metros y 1.108 metros respectivamente . Además, los lagos son un lugar importante en la historia de España, ya que fue aquí donde comenzó la Reconquista en el siglo VIII . La Basílica de Santa María la Real de Covadonga, que se encuentra cerca de los lagos, es un lugar sagrado para muchos españoles y es un importante lugar de peregrinación.",
+                    "more": "La ruta: La Ruta del Valle del Lago es una ruta circular de senderismo de 12,3 km de longitud y dificultad moderada que comienza y termina en el Parque Natural de Somiedo. Durante el recorrido, podrás disfrutar de vistas impresionantes del valle y su colorido paisaje natural. En las laderas con arbolado, el haya y algún arraclán son las especies dominantes. El resto son pastos y el sempiterno teito, con el que se hacen los techos de las cabañas del mismo nombre. Pero si hay alguna planta que sobresale son las grandes y coloridas flores de las genecianas -amarillas o naranjas-, que llenan la zona alta del valle en los meses de junio y julio. Muchas son las pequeñas aves que podemos ver en la zona; entre ellas destacamos el precioso escribano cerillo, ave con un particular color amarillo.",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://es.wikipedia.org/wiki/Lagos_de_Covadonga"
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
+                    "id": "CaresDePoncebosACain",
                     "lat": "50.9",
                     "lon": "4.8",
                     "type": "statue",
