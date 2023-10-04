@@ -69,6 +69,22 @@
                     "urls": [
                         "https://es.wikipedia.org/wiki/Parque_natural_de_Somiedo"
                     ]
+                },
+                {
+                    "id": "RefugioDeLaTerenosa",
+                    "lat": "43.2272742561026",
+                    "lon": "-4.792573443363746",
+                    "type": "refugio",
+                    "name": "Refugio de la Terenosa y Refugio Urriellu desde el Collado de Pandébano",
+                    "images": [
+                        "https://media.v2.siweb.es/uploaded_thumb_medium/7202a309d373e716ec4e3d3dc959cbe4/Terenosa_2.jpg",
+                        "https://www.reservarefugios.com/sites/default/files/styles/flexslider_full/public/images/shelters/14479669_638068166367267_6128604147090445802_n-1.jpg"
+                    ],
+                    "description": "El Collado de Pandébano es conocido por ser el acceso más común hacia el Naranjo de Bulnes. Está rodeado de praderas verdes y paisajes montañosos que representan la belleza del Parque Nacional de los Picos de Europa. Su ubicación estratégica lo hace un punto de encuentro para montañeros y amantes de la naturaleza que buscan explorar las montañas y refugios circundantes. Desde aquí, se puede apreciar la magnitud y belleza de las cumbres cercanas, y sentir la esencia pura de la montaña.",
+                    "more": "La Ruta: Inicia en el Collado de Pandébano, un paso montañoso que ofrece vistas panorámicas de los Picos de Europa y es punto de partida para numerosas rutas de montaña. Desde aquí, el camino se dirige hacia el Refugio de la Terenosa, un refugio montañoso situado en un lugar privilegiado que permite a los excursionistas descansar y disfrutar de espectaculares vistas del entorno. Al continuar el trayecto, el sendero asciende por caminos rocosos hasta alcanzar el famoso Refugio Urriellu, también conocido como Refugio de la Vega de Urriellu. Esta construcción se ubica al pie del imponente Naranjo de Bulnes o Picu Urriellu, uno de los iconos más representativos de los Picos de Europa.",
+                    "urls": [
+                        "https://www.turismoasturias.es/organiza-tu-viaje/donde-dormir/alojamiento/refugios-de-montana/refugio-de-la-tenerosa"
+                    ]
                 }
             ]
         }
