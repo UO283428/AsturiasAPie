@@ -133,6 +133,22 @@
                     "urls": [
                         "https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-les-fuentes"
                     ]
+                },
+                {
+                    "id": "PicosDeEuropa",
+                    "lat": "43.208775",
+                    "lon": "-4.759878",
+                    "type": "mountain",
+                    "name": "Ruta de los Picos de Europa",
+                    "images": [
+                        "https://www.canoeaventuratrophy.com/wp-content/uploads/2023/02/picos-de-europa-1.jpg",
+                        "https://images.hola.com/imagenes/viajes/20221013219011/mejores-rutas-picos-europa-asturias-cantabria-leon/1-151-699/ayy-k7e9m9-m.jpg?tx=w_680"
+                    ],
+                    "description": "La Ruta de los Picos de Europa es una experiencia única para los amantes del senderismo de montaña. Ubicada en el Parque Nacional de los Picos de Europa, esta ruta ofrece vistas impresionantes de picos imponentes, profundos desfiladeros y valles exuberantes.",
+                    "more": "La ruta, que abarca varios días y más de 50 km, permite a los excursionistas explorar algunos de los paisajes más sorprendentes de Asturias. Desde el Mirador del Naranjo de Bulnes hasta el Collado Jermoso, la Ruta de los Picos de Europa es un desafío emocionante para aquellos que buscan aventuras en la naturaleza. A lo largo del camino, los excursionistas pueden encontrarse con la rica vida silvestre de la región, incluyendo cabras montesas y águilas reales.",
+                    "urls": [
+                        "https://es.wikiloc.com/planet/discovery-es/rutas-picos-de-europa-senderismo/"
+                    ]
                 }
             ]
         }
