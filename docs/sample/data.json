@@ -90,32 +90,32 @@
                     "id": "SendaDelOso",
                     "lat": "43.222345",
                     "lon": "-5.646789",
-                    "type": "trail",
+                    "type": "senda",
                     "name": "Senda del Oso",
                     "images": [
-                        "https://www.turismoasturias.es/documents/64306/1543150/oso_1.jpg",
-                        "https://www.turismoasturias.es/documents/64306/1543150/oso_3.jpg"
+                        "https://static.wixstatic.com/media/1a492c_c2f93fb7fead4f769e14d3b9ef863623~mv2.jpg/v1/fill/w_640,h_442,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1a492c_c2f93fb7fead4f769e14d3b9ef863623~mv2.jpg",
+                        "https://www.palaciodeaviles.com/wp-content/uploads/fly-images/6048/ruta-del-oso-870x0.jpg"
                     ],
                     "description": "La Senda del Oso es una popular ruta de senderismo y ciclismo que sigue el antiguo trazado de un ferrocarril minero. Ofrece paisajes impresionantes a lo largo del río Trubia en Asturias. La ruta es conocida por su belleza natural, atravesando bosques y desfiladeros escénicos. Además, cuenta con el Museo de la Prehistoria y un santuario de osos pardos que añaden atractivo a la experiencia.",
                     "more": "La ruta es perfecta tanto para caminantes como ciclistas, con aproximadamente 22 km de longitud. Durante el recorrido, los visitantes pueden disfrutar de la flora y fauna locales, así como de la historia industrial de la región. La Senda del Oso es una experiencia única para explorar la naturaleza y la cultura asturiana.",
                     "urls": [
-                        "https://www.turismoasturias.es/descubre/naturaleza/senderismo/rutas/senda-del-oso"
+                        "https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/senda-del-oso"
                     ]
                 },
                 {
                     "id": "RutaDeLasXanas",
                     "lat": "43.369821",
                     "lon": "-6.110324",
-                    "type": "trail",
+                    "type": "sebda",
                     "name": "Ruta de las Xanas",
                     "images": [
-                        "https://www.turismoasturias.es/documents/64306/1543150/xanas_1.jpg",
-                        "https://www.turismoasturias.es/documents/64306/1543150/xanas_2.jpg"
+                        "https://s1.wklcdn.com/image_19/590908/77501316/51302329Master.jpg",
+                        "https://live.staticflickr.com/65535/51819048192_6a3d81ca37_o.jpg"
                     ],
                     "description": "La Ruta de las Xanas es una impresionante ruta de senderismo que serpentea a través de un estrecho desfiladero conocido como la Garganta de las Xanas. Ubicada en el Parque Natural Las Ubiñas-La Mesa, la ruta ofrece vistas espectaculares, cascadas y la posibilidad de avistar la flora y fauna autóctona.",
                     "more": "La ruta, de aproximadamente 8 km, comienza en el pueblo de Pedroveya y se adentra en un entorno natural único. A lo largo del camino, los excursionistas pueden disfrutar de la compañía de numerosas aves y explorar cuevas como la Cuevona de Cuevas. La Ruta de las Xanas es un viaje inolvidable a través de la belleza natural de Asturias.",
                     "urls": [
-                        "https://www.turismoasturias.es/descubre/naturaleza/senderismo/rutas/ruta-de-las-xanas"
+                        "https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-de-las-xanas"
                     ]
                 },
                 {
@@ -125,13 +125,13 @@
                     "type": "trail",
                     "name": "Ruta de las Fuentes",
                     "images": [
-                        "https://www.turismoasturias.es/documents/64306/1543150/fuentes_1.jpg",
-                        "https://www.turismoasturias.es/documents/64306/1543150/fuentes_3.jpg"
+                        "https://www.excursionesyrutasporcastillayleon.com/wp-content/uploads/2017/05/cascada-fuente-del-azufre.jpg",
+                        "https://www.excursionesyrutasporcastillayleon.com/wp-content/uploads/2017/05/DSC_0779.jpg"
                     ],
                     "description": "La Ruta de las Fuentes es un encantador recorrido que te lleva por caminos rurales y bosques exuberantes, revelando pintorescas fuentes y arroyos a lo largo del camino. Esta ruta tranquila es perfecta para aquellos que buscan una experiencia relajante y un contacto cercano con la naturaleza.",
                     "more": "Con alrededor de 10 km de longitud, la ruta comienza en el pueblo de Llanes y serpentea a través de prados y bosques. Las fuentes naturales a lo largo del camino ofrecen oportunidades para refrescarse y disfrutar de la serenidad del entorno. La Ruta de las Fuentes es ideal para aquellos que buscan un escape tranquilo y pintoresco en Asturias.",
                     "urls": [
-                        "https://www.turismoasturias.es/descubre/naturaleza/senderismo/rutas/ruta-de-las-fuentes"
+                        "https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-les-fuentes"
                     ]
                 }
             ]
