@@ -30,8 +30,12 @@
                   "type": "church",
                   "name": "Covadonga's Lakes Ascent",
                   "images": [
-                    "https://www.tuscasasrurales.com/blog/wp-content/uploads/2020/06/Lago-Enol-Covadonga.jpg",
-                    "https://guiadeasturias.com/wp-content/uploads/2017/11/santuario-lagos-covadonga-asturias-2.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LAGOS_DE_COVADONGA_5.jpg/1920px-LAGOS_DE_COVADONGA_5.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lago_Enol_%28Asturias%29.JPG/1920px-Lago_Enol_%28Asturias%29.JPG"
+                  ],
+                  "attributions": [
+                      "De Pacodonderis - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78923762",
+                      "De Xandra Gixela - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32648982"
                   ],
                   "description": "The Covadonga's Lakes are a point of interest, both natural and cultural, due to their majestic landscape and interesting history. These lakes are located in the Picos de Europa National Park in Asturias, Spain. The park is known for its natural beauty and is a popular destination for hiking and nature enthusiasts. The Covadonga's Lakes are two glacial lakes, Lake Enol and Lake Ercina, located at altitudes of 1,100 meters and 1,108 meters respectively. Additionally, the lakes hold historical significance for Spain, as it is here that the Reconquista began in the 8th century. The Basilica of Santa María la Real de Covadonga, near the lakes, is a sacred place for many Spaniards and an important pilgrimage site.",
                   "more": "The route to the Lakes of Covadonga is a circular route of approximately 5 kilometers in length. The starting point is the Buferrera parking lot and the endpoint is the same. On the route, several points of interest can be found such as the Pedro Pidal Visitor Center, the Prince viewpoint, the Buferrera mines, Lake Ercina, Entrelagos viewpoint, the plains around Bricial and the Palomberu beech forest. Lake Enol is an ideal spot for enjoying a picnic in peace and quiet.",
@@ -46,11 +50,15 @@
                   "type": "river",
                   "name": "Route of the Cares' river",
                   "images": [
-                    "https://media.v2.siweb.es/uploaded_thumb_medium/492a9ba9d58406495aabb2c9b90c3473/cares_2.jpg",
-                    "https://www.turismoasturias.es/documents/39908/ba0bdd87-5d94-fb45-8eef-e4290c4f2289?t=1674175649276"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruta_del_Cares_Puente.jpg/1280px-Ruta_del_Cares_Puente.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Picos_de_Europa_-_2013.07_-_panoramio.jpg/800px-Picos_de_Europa_-_2013.07_-_panoramio.jpg"
+                  ],
+                  "attributions": [
+                      "De El Jim - https://flic.kr/p/4Kwtmh, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36668829",
+                      "De rheins, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=59426962"
                   ],
                   "description": "The Cares River is a mountain river in northern Spain that flows through the provinces of León and Asturias and is a tributary of the Deva River. The river has a length of 52.5 km and a basin area of 1,200 km². The river originates in Posada de Valdeón (León), in the Cantabrian Mountains, at an altitude of 1,600 meters, where several streams converge. It flows into the Deva River near Vega de Llés. The Deva River flows into the Cantabrian Sea, forming the Tina Mayor estuary, which serves as the natural border between Asturias and Cantabria. The Cares River forms a spectacular gorge through which the popular Cares' route passes—a pedestrian route known for its gorges, Atlantic salmon, beautiful fauna, and being one of the most beautiful rivers on the Iberian Peninsula. Additionally, the river is known for water activities such as canoeing, especially in the summer months.",
-                  "more": "The route: The Cares route from Poncebos to Caín is a 12 km linear hiking route that starts in Poncebos and ends in Caín. The route is known for its natural beauty and is a popular destination for hiking and nature enthusiasts. The route was established in the early 20th century as part of the construction of a canal that supplies water to the local hydroelectric power plant. During the journey, you can enjoy stunning views of the Cares River gorge, rising over 2,000 meters above the valley floor carved by the green and crystalline waters of the Cares River. The route starts at the Poncebos Bridge, located at an altitude of 200 meters. The most demanding stretch is the first one, with 2 km of ascent and an elevation gain of 300 meters, usually completed in approximately 45 minutes. Along the way, you can enjoy the Collaos, a rocky section, and the village of Caín.",
+                  "more": "The route: The Cares' route from Poncebos to Caín is a 12 km linear hiking route that starts in Poncebos and ends in Caín. The route is known for its natural beauty and is a popular destination for hiking and nature enthusiasts. The route was established in the early 20th century as part of the construction of a canal that supplies water to the local hydroelectric power plant. During the journey, you can enjoy stunning views of the Cares River gorge, rising over 2,000 meters above the valley floor carved by the green and crystalline waters of the Cares River. The route starts at the Poncebos Bridge, located at an altitude of 200 meters. The most demanding stretch is the first one, with 2 km of ascent and an elevation gain of 300 meters, usually completed in approximately 45 minutes. Along the way, you can enjoy the Collaos, a rocky section, and the village of Caín.",
                   "urls": [
                     "https://en.wikipedia.org/wiki/Ruta_del_Cares"
                   ]
@@ -62,8 +70,12 @@
                   "type": "lake",
                   "name": "Route of the Valley's lake",
                   "images": [
-                    "https://guiadeasturias.com/wp-content/uploads/2020/10/screenshotAtUploadCC_1602066404558.png",
-                    "https://www.calidadrural.com/rutas/lagodelvalle/lago-del-valle.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg/1024px-Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg/800px-Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg"
+                  ],
+                  "attributions": [
+                      "De Carmenmoran - Trabajo propio, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=83404294",
+                      "De Juanbitas - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79331740"
                   ],
                   "description": "Valle del Lago is a parish in the municipality of Somiedo, in the Principality of Asturias, Spain. The parish is located at an altitude of 1,240 meters and covers an area of 29.76 km². Valle del Lago is known for its natural beauty and is a popular destination for hiking and nature enthusiasts.",
                   "more": "The route: The Valley's Lake route is a 12.3 km circular hiking route with moderate difficulty that starts and ends in the Somiedo Natural Park. Along the way, you can enjoy breathtaking views of the valley and its colorful natural landscape. The dominant species in the wooded slopes are beech and some holly. The rest consists of meadows and the ever-present 'teito,' used for the roofs of cabins of the same name. But if there's one plant that stands out, it's the large and colorful flowers of the gentians—yellow or orange—that fill the upper area of the valley in June and July. Many small birds, including the beautiful citril finch, can be seen in the area.",
@@ -78,8 +90,12 @@
                   "type": "refuge",
                   "name": "Terenosa Refuge from Collado de Pandébano",
                   "images": [
-                    "https://media.v2.siweb.es/uploaded_thumb_medium/7202a309d373e716ec4e3d3dc959cbe4/Terenosa_2.jpg",
-                    "https://www.reservarefugios.com/sites/default/files/styles/flexslider_full/public/images/shelters/14479669_638068166367267_6128604147090445802_n-1.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pico_Urriello_Asturias.JPG/1024px-Pico_Urriello_Asturias.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg/800px-Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg"
+                  ],
+                  "attributions": [
+                      "De Miguel Sáenz de Santa María - Camera Nikon D50, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1349480",
+                      "De Juan Lacruz - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18277065"
                   ],
                   "description": "Collado de Pandébano is known as the most common access point to Naranjo de Bulnes. It is surrounded by green meadows and mountain landscapes that represent the beauty of the Picos de Europa National Park. Its strategic location makes it a meeting point for mountaineers and nature lovers looking to explore the surrounding mountains and refuges. From here, one can appreciate the magnitude and beauty of the nearby peaks and feel the pure essence of the mountain.",
                   "more": "The route: It starts at Collado de Pandébano, a mountain pass that offers panoramic views of the Picos de Europa and serves as the starting point for numerous mountain routes. From here, the path leads to the Terenosa Refuge, a mountain refuge located in a privileged location that allows hikers to rest and enjoy spectacular views of the surroundings. Continuing the journey, the trail ascends rocky paths to reach the famous Urriellu Refuge, also known as the Vega de Urriellu Refuge. This construction is located at the foot of the impressive Naranjo de Bulnes or Picu Urriellu, one of the most iconic symbols of the Picos de Europa.",
@@ -94,11 +110,14 @@
                   "type": "path",
                   "name": "The bear's trail",
                   "images": [
-                    "https://static.wixstatic.com/media/1a492c_c2f93fb7fead4f769e14d3b9ef863623~mv2.jpg/v1/fill/w_640,h_442,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1a492c_c2f93fb7fead4f769e14d3b9ef863623~mv2.jpg",
-                    "https://www.palaciodeaviles.com/wp-content/uploads/fly-images/6048/ruta-del-oso-870x0.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Katmai_Sow_and_Cubs.JPG/1024px-Katmai_Sow_and_Cubs.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senda_del_Oso.jpg/800px-Senda_del_Oso.jpg"
+                  ],
+                  "attributions": [
+                      "By Joaquinceb - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3217868"
                   ],
                   "description": "The bear's trail route is a popular hiking and cycling route that follows the old path of a mining railway. It offers stunning landscapes along the Trubia River in Asturias. The route is known for its natural beauty, traversing forests and scenic gorges. Additionally, it features the Museum of Prehistory and a sanctuary for brown bears, adding allure to the experience.",
-                  "more": "The route is perfect for both walkers and cyclists, covering approximately 22 km. During the journey, visitors can enjoy the local flora and fauna, as well as the industrial history of the region. The Senda del Oso is a unique experience to explore the nature and culture of Asturias.",
+                  "more": "The route is perfect for both walkers and cyclists, covering approximately 22 km. During the journey, visitors can enjoy the local flora and fauna, as well as the industrial history of the region. The Bear's trail is a unique experience to explore the nature and culture of Asturias.",
                   "urls": [
                     "https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/senda-del-oso"
                   ]
@@ -110,8 +129,12 @@
                   "type": "path",
                   "name": "Xanas' route",
                   "images": [
-                    "https://s1.wklcdn.com/image_19/590908/77501316/51302329Master.jpg",
-                    "https://live.staticflickr.com/65535/51819048192_6a3d81ca37_o.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/LasXanas.jpg/800px-LasXanas.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/e/e9/Desfiladero_de_las_xanas_01.jpg"
+                  ],
+                  "attributions": [
+                      "De Elfo del bosque - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=6477732",
+                      "De Ricardo Fdez. - Flickr [1], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=2385694"
                   ],
                   "description": "The Xanas' route is a stunning hiking route that winds through a narrow gorge known as the Garganta de las Xanas. Located in the Las Ubiñas-La Mesa Natural Park, the route offers spectacular views, waterfalls, and the opportunity to spot native flora and fauna.",
                   "more": "The route, approximately 8 km long, starts in the village of Pedroveya and ventures into a unique natural environment. Along the way, hikers can enjoy the company of numerous birds and explore caves such as the Cuevona de Cuevas. The Xanas' route is an unforgettable journey through the natural beauty of Asturias.",
@@ -126,10 +149,14 @@
                   "type": "trail",
                   "name": "Route of the Fountains",
                   "images": [
-                    "https://www.excursionesyrutasporcastillayleon.com/wp-content/uploads/2017/05/cascada-fuente-del-azufre.jpg",
-                    "https://www.excursionesyrutasporcastillayleon.com/wp-content/uploads/2017/05/DSC_0779.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pelugano-primavera.jpg/1280px-Pelugano-primavera.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/1/15/Murias_1.JPG?20091006200726"
                   ],
-                  "description": "The route of the Fountains is a charming path that takes you through rural paths and lush forests, revealing picturesque springs and streams along the way. This tranquil route is perfect for those seeking a relaxing experience and close contact with nature.",
+                  "attributions": [
+                      "De I, Luisvelas, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=2319382",
+                      "By Asturiasalpoder - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=7999676"
+                  ],
+                  "description": "The route of the Fountains is a charming mountain trail that takes you through rural paths and lush forests, revealing picturesque springs and streams along the way. This tranquil route is perfect for those seeking a relaxing experience and close contact with nature.",
                   "more": "With a length of around 10 km, the route starts in the village of Llanes and meanders through meadows and forests. The natural springs along the way provide opportunities to refresh and enjoy the serenity of the surroundings. The route of the fountains is ideal for those seeking a quiet and scenic escape in Asturias.",
                   "urls": [
                     "https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/ruta-les-fuentes"
@@ -142,8 +169,12 @@
                   "type": "mountain",
                   "name": "The Peaks of Europe's route",
                   "images": [
-                    "https://www.canoeaventuratrophy.com/wp-content/uploads/2023/02/picos-de-europa-1.jpg",
-                    "https://images.hola.com/imagenes/viajes/20221013219011/mejores-rutas-picos-europa-asturias-cantabria-leon/1-151-699/ayy-k7e9m9-m.jpg?tx=w_680"
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG/1024px-106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/El_Corni%C3%B3n.jpg/800px-El_Corni%C3%B3n.jpg"
+                  ],
+                  "attributions": [
+                      "De JConnolly74 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=319648",
+                      "De Davidfase, trabajo propio, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1685930"
                   ],
                   "description": "The Peaks of Europe's route is a unique experience for mountain hiking enthusiasts. Located in the Peaks of Europe National Park, this route offers stunning views of imposing peaks, deep gorges, and lush valleys.",
                   "more": "The route, spanning several days and over 50 km, allows hikers to explore some of the most breathtaking landscapes in Asturias. From the Naranjo de Bulnes Viewpoint to the Collado Jermoso, the Peaks of Europe's route is an exciting challenge for those seeking adventures in nature. Along the way, hikers may encounter the rich wildlife of the region, including mountain goats and golden eagles.",
@@ -173,8 +204,12 @@
                     "type": "church",
                     "name": "Subida a los Lagos de Covadonga",
                     "images": [
-                        "https://www.tuscasasrurales.com/blog/wp-content/uploads/2020/06/Lago-Enol-Covadonga.jpg",
-                        "https://guiadeasturias.com/wp-content/uploads/2017/11/santuario-lagos-covadonga-asturias-2.jpg"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LAGOS_DE_COVADONGA_5.jpg/1920px-LAGOS_DE_COVADONGA_5.jpg",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lago_Enol_%28Asturias%29.JPG/1920px-Lago_Enol_%28Asturias%29.JPG"
+                    ],
+                    "attributions": [
+                        "De Pacodonderis - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78923762",
+                        "De Xandra Gixela - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32648982"
                     ],
                     "description": "Los Lagos de Covadonga son un punto de interés tanto natural como cultural por su majestuoso paisaje y su interesante historia. Estos lagos se encuentran en el Parque Nacional de los Picos de Europa, en Asturias, España. El parque es conocido por su belleza natural y es un destino popular para los amantes del senderismo y la naturaleza. Los Lagos de Covadonga son dos lagos glaciares, el Lago Enol y el Lago Ercina, que se encuentran a una altitud de 1.100 metros y 1.108 metros respectivamente . Además, los lagos son un lugar importante en la historia de España, ya que fue aquí donde comenzó la Reconquista en el siglo VIII . La Basílica de Santa María la Real de Covadonga, que se encuentra cerca de los lagos, es un lugar sagrado para muchos españoles y es un importante lugar de peregrinación.",
                     "more": "La ruta de subida a los Lagos de Covadonga es una ruta circular de aproximadamente 5 kilómetros de longitud. El punto de partida es el aparcamiento de Buferrera y el punto final es el mismo. En la ruta, se pueden encontrar varios puntos de interés, como el Centro de Visitantes Pedro Pidal, el mirador del Príncipe, las minas de Buferrera, el Lago Ercina, el mirador Entrelagos, las llanuras alrededor de Bricial y el bosque de hayas Palomberu. El Lago Enol es un lugar ideal para disfrutar de un picnic en paz y tranquilidad.",
@@ -189,8 +224,12 @@
                     "type": "river",
                     "name": "Ruta del Cares de Poncebos a Caín",
                     "images": [
-                        "https://media.v2.siweb.es/uploaded_thumb_medium/492a9ba9d58406495aabb2c9b90c3473/cares_2.jpg",
-                        "https://www.turismoasturias.es/documents/39908/ba0bdd87-5d94-fb45-8eef-e4290c4f2289?t=1674175649276"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruta_del_Cares_Puente.jpg/1280px-Ruta_del_Cares_Puente.jpg",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Picos_de_Europa_-_2013.07_-_panoramio.jpg/800px-Picos_de_Europa_-_2013.07_-_panoramio.jpg"
+                    ],
+                    "attributions": [
+                        "De El Jim - https://flic.kr/p/4Kwtmh, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36668829",
+                        "De rheins, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=59426962"
                     ],
                     "description": "El río Cares es un río de montaña del norte de España que discurre por la provincia de León y la comunidad autónoma de Asturias y es afluente del río Deva. El río tiene una longitud de 52,5 km y una superficie de cuenca de 1.200 km² 1. El río nace en Posada de Valdeón (León), en la Cordillera Cantábrica, a una altitud de 1.600 metros en la confluencia de varios arroyos. Desemboca en el río Deva a la altura de Vega de Llés. El Deva desemboca en el mar Cantábrico formando la ría de Tina Mayor, que constituye la frontera natural entre Asturias y Cantabria. El río Cares forma una espectacular garganta por la que discurre la concurrida ruta del Cares, una ruta pedestre que pasa por desfiladeros y es conocida por sus salmones atlánticos, su bella fauna y por ser uno de los más bellos ríos de la península ibérica. Además, el río es conocido por sus actividades acuáticas como el descenso en canoas, especialmente en los meses de verano.",
                     "more": "La Ruta: ruta del Cares de Poncebos a Caín es una ruta de senderismo lineal de 12 km de longitud que comienza en Poncebos y termina en Caín. La ruta es conocida por su belleza natural y es un destino popular para los amantes del senderismo y la naturaleza. La ruta se estableció a principios del siglo XX como parte de la construcción de un canal que suministra agua a la central hidroeléctrica local. Durante el recorrido, podrás disfrutar de vistas impresionantes del desfiladero del río Cares, que se eleva a más de 2.000 metros sobre el fondo del valle excavado por las verdes y cristalinas aguas del río Cares. La ruta comienza en el Puente de Poncebos, que se encuentra a una altitud de 200 metros. El tramo más exigente es el primero, con esos 2 km de subida y un desnivel de 300 m de altitud, que suelen completarse en aproximadamente 45 min. A lo largo del camino, podrás disfrutar de los Collaos, un tramo pedregoso, y el caserío de Caín.",
@@ -205,8 +244,12 @@
                     "type": "lake",
                     "name": "La ruta del Valle del Lago",
                     "images": [
-                        "https://guiadeasturias.com/wp-content/uploads/2020/10/screenshotAtUploadCC_1602066404558.png",
-                        "https://www.calidadrural.com/rutas/lagodelvalle/lago-del-valle.jpg"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg/1024px-Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg/800px-Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg"
+                    ],
+                    "attributions": [
+                        "De Carmenmoran - Trabajo propio, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=83404294",
+                        "De Juanbitas - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79331740"
                     ],
                     "description": "El Valle del Lago es una parroquia del concejo de Somiedo, en el Principado de Asturias, España. La parroquia se encuentra a una altitud de 1,24 metros y cuenta con una extensión de 29,76 km² 1. El Valle del Lago es conocido por su belleza natural y es un destino popular para los amantes del senderismo y la naturaleza.",
                     "more": "La ruta: La Ruta del Valle del Lago es una ruta circular de senderismo de 12,3 km de longitud y dificultad moderada que comienza y termina en el Parque Natural de Somiedo. Durante el recorrido, podrás disfrutar de vistas impresionantes del valle y su colorido paisaje natural. En las laderas con arbolado, el haya y algún arraclán son las especies dominantes. El resto son pastos y el sempiterno teito, con el que se hacen los techos de las cabañas del mismo nombre. Pero si hay alguna planta que sobresale son las grandes y coloridas flores de las genecianas -amarillas o naranjas-, que llenan la zona alta del valle en los meses de junio y julio. Muchas son las pequeñas aves que podemos ver en la zona; entre ellas destacamos el precioso escribano cerillo, ave con un particular color amarillo.",
@@ -221,8 +264,12 @@
                     "type": "refugio",
                     "name": "Refugio de la Terenosa desde el Collado de Pandébano",
                     "images": [
-                        "https://media.v2.siweb.es/uploaded_thumb_medium/7202a309d373e716ec4e3d3dc959cbe4/Terenosa_2.jpg",
-                        "https://www.reservarefugios.com/sites/default/files/styles/flexslider_full/public/images/shelters/14479669_638068166367267_6128604147090445802_n-1.jpg"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pico_Urriello_Asturias.JPG/1024px-Pico_Urriello_Asturias.JPG",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg/800px-Valle_del_Lago._Panor%C3%A1mica_de_subida_al_Lago_del_Valle.jpg"
+                    ],
+                    "attributions": [
+                        "De Miguel Sáenz de Santa María - Camera Nikon D50, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1349480",
+                        "De Juan Lacruz - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18277065"
                     ],
                     "description": "El Collado de Pandébano es conocido por ser el acceso más común hacia el Naranjo de Bulnes. Está rodeado de praderas verdes y paisajes montañosos que representan la belleza del Parque Nacional de los Picos de Europa. Su ubicación estratégica lo hace un punto de encuentro para montañeros y amantes de la naturaleza que buscan explorar las montañas y refugios circundantes. Desde aquí, se puede apreciar la magnitud y belleza de las cumbres cercanas, y sentir la esencia pura de la montaña.",
                     "more": "La Ruta: Inicia en el Collado de Pandébano, un paso montañoso que ofrece vistas panorámicas de los Picos de Europa y es punto de partida para numerosas rutas de montaña. Desde aquí, el camino se dirige hacia el Refugio de la Terenosa, un refugio montañoso situado en un lugar privilegiado que permite a los excursionistas descansar y disfrutar de espectaculares vistas del entorno. Al continuar el trayecto, el sendero asciende por caminos rocosos hasta alcanzar el famoso Refugio Urriellu, también conocido como Refugio de la Vega de Urriellu. Esta construcción se ubica al pie del imponente Naranjo de Bulnes o Picu Urriellu, uno de los iconos más representativos de los Picos de Europa.",
@@ -237,8 +284,11 @@
                     "type": "senda",
                     "name": "Senda del Oso",
                     "images": [
-                        "https://static.wixstatic.com/media/1a492c_c2f93fb7fead4f769e14d3b9ef863623~mv2.jpg/v1/fill/w_640,h_442,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1a492c_c2f93fb7fead4f769e14d3b9ef863623~mv2.jpg",
-                        "https://www.palaciodeaviles.com/wp-content/uploads/fly-images/6048/ruta-del-oso-870x0.jpg"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Katmai_Sow_and_Cubs.JPG/1024px-Katmai_Sow_and_Cubs.JPG",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senda_del_Oso.jpg/800px-Senda_del_Oso.jpg"
+                    ],
+                    "attributions": [
+                        "By Joaquinceb - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3217868"
                     ],
                     "description": "La Senda del Oso es una popular ruta de senderismo y ciclismo que sigue el antiguo trazado de un ferrocarril minero. Ofrece paisajes impresionantes a lo largo del río Trubia en Asturias. La ruta es conocida por su belleza natural, atravesando bosques y desfiladeros escénicos. Además, cuenta con el Museo de la Prehistoria y un santuario de osos pardos que añaden atractivo a la experiencia.",
                     "more": "La ruta es perfecta tanto para caminantes como ciclistas, con aproximadamente 22 km de longitud. Durante el recorrido, los visitantes pueden disfrutar de la flora y fauna locales, así como de la historia industrial de la región. La Senda del Oso es una experiencia única para explorar la naturaleza y la cultura asturiana.",
@@ -253,8 +303,12 @@
                     "type": "sebda",
                     "name": "Ruta de las Xanas",
                     "images": [
-                        "https://s1.wklcdn.com/image_19/590908/77501316/51302329Master.jpg",
-                        "https://live.staticflickr.com/65535/51819048192_6a3d81ca37_o.jpg"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pelugano-primavera.jpg/1280px-Pelugano-primavera.jpg",
+                      "https://upload.wikimedia.org/wikipedia/commons/1/15/Murias_1.JPG?20091006200726"
+                    ],
+                    "attributions": [
+                        "De I, Luisvelas, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=2319382",
+                        "By Asturiasalpoder - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=7999676"
                     ],
                     "description": "La Ruta de las Xanas es una impresionante ruta de senderismo que serpentea a través de un estrecho desfiladero conocido como la Garganta de las Xanas. Ubicada en el Parque Natural Las Ubiñas-La Mesa, la ruta ofrece vistas espectaculares, cascadas y la posibilidad de avistar la flora y fauna autóctona.",
                     "more": "La ruta, de aproximadamente 8 km, comienza en el pueblo de Pedroveya y se adentra en un entorno natural único. A lo largo del camino, los excursionistas pueden disfrutar de la compañía de numerosas aves y explorar cuevas como la Cuevona de Cuevas. La Ruta de las Xanas es un viaje inolvidable a través de la belleza natural de Asturias.",
@@ -269,8 +323,12 @@
                     "type": "trail",
                     "name": "Ruta de las Fuentes",
                     "images": [
-                        "https://www.excursionesyrutasporcastillayleon.com/wp-content/uploads/2017/05/cascada-fuente-del-azufre.jpg",
-                        "https://www.excursionesyrutasporcastillayleon.com/wp-content/uploads/2017/05/DSC_0779.jpg"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pelugano-primavera.jpg/1280px-Pelugano-primavera.jpg",
+                      "https://upload.wikimedia.org/wikipedia/commons/1/15/Murias_1.JPG?20091006200726"
+                    ],
+                    "attributions": [
+                        "De I, Luisvelas, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=2319382",
+                        "By Asturiasalpoder - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=7999676"
                     ],
                     "description": "La Ruta de las Fuentes es un encantador recorrido que te lleva por caminos rurales y bosques exuberantes, revelando pintorescas fuentes y arroyos a lo largo del camino. Esta ruta tranquila es perfecta para aquellos que buscan una experiencia relajante y un contacto cercano con la naturaleza.",
                     "more": "Con alrededor de 10 km de longitud, la ruta comienza en el pueblo de Llanes y serpentea a través de prados y bosques. Las fuentes naturales a lo largo del camino ofrecen oportunidades para refrescarse y disfrutar de la serenidad del entorno. La Ruta de las Fuentes es ideal para aquellos que buscan un escape tranquilo y pintoresco en Asturias.",
@@ -285,8 +343,12 @@
                     "type": "mountain",
                     "name": "Ruta de los Picos de Europa",
                     "images": [
-                        "https://www.canoeaventuratrophy.com/wp-content/uploads/2023/02/picos-de-europa-1.jpg",
-                        "https://images.hola.com/imagenes/viajes/20221013219011/mejores-rutas-picos-europa-asturias-cantabria-leon/1-151-699/ayy-k7e9m9-m.jpg?tx=w_680"
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG/1024px-106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/El_Corni%C3%B3n.jpg/800px-El_Corni%C3%B3n.jpg"
+                    ],
+                    "attributions": [
+                        "De JConnolly74 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=319648",
+                        "De Davidfase, trabajo propio, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1685930"
                     ],
                     "description": "La Ruta de los Picos de Europa es una experiencia única para los amantes del senderismo de montaña. Ubicada en el Parque Nacional de los Picos de Europa, esta ruta ofrece vistas impresionantes de picos imponentes, profundos desfiladeros y valles exuberantes.",
                     "more": "La ruta, que abarca varios días y más de 50 km, permite a los excursionistas explorar algunos de los paisajes más sorprendentes de Asturias. Desde el Mirador del Naranjo de Bulnes hasta el Collado Jermoso, la Ruta de los Picos de Europa es un desafío emocionante para aquellos que buscan aventuras en la naturaleza. A lo largo del camino, los excursionistas pueden encontrarse con la rica vida silvestre de la región, incluyendo cabras montesas y águilas reales.",
