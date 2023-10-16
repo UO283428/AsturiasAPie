@@ -27,7 +27,7 @@
                   "id": "LagosDeCovadonga",
                   "lat": "43.27219267969067",
                   "lon": "-4.9923967691425135",
-                  "type": "church",
+                  "type": "Lake",
                   "name": "Covadonga's Lakes Ascent",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LAGOS_DE_COVADONGA_5.jpg/1920px-LAGOS_DE_COVADONGA_5.jpg",
@@ -67,7 +67,7 @@
                   "id": "ValleDelLago",
                   "lat": "43.04653513424318",
                   "lon": "-6.138110205017116",
-                  "type": "lake",
+                  "type": "Lake",
                   "name": "Route of the Valley's lake",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg/1024px-Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg",
@@ -87,7 +87,7 @@
                   "id": "RefugioDeLaTerenosa",
                   "lat": "43.2272742561026",
                   "lon": "-4.792573443363746",
-                  "type": "refuge",
+                  "type": "Refuge",
                   "name": "Terenosa Refuge from Collado de Pandébano",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pico_Urriello_Asturias.JPG/1024px-Pico_Urriello_Asturias.JPG",
@@ -107,7 +107,7 @@
                   "id": "SendaDelOso",
                   "lat": "43.222345",
                   "lon": "-5.646789",
-                  "type": "path",
+                  "type": "Route",
                   "name": "The bear's trail",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Katmai_Sow_and_Cubs.JPG/1024px-Katmai_Sow_and_Cubs.JPG",
@@ -126,7 +126,7 @@
                   "id": "RutaDeLasXanas",
                   "lat": "43.369821",
                   "lon": "-6.110324",
-                  "type": "path",
+                  "type": "Gorge",
                   "name": "Xanas' route",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/LasXanas.jpg/800px-LasXanas.jpg",
@@ -146,7 +146,7 @@
                   "id": "RutaDeLasFuentes",
                   "lat": "43.454689",
                   "lon": "-5.661234",
-                  "type": "trail",
+                  "type": "Fountain",
                   "name": "Route of the Fountains",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pelugano-primavera.jpg/1280px-Pelugano-primavera.jpg",
@@ -166,7 +166,7 @@
                   "id": "PicosDeEuropa",
                   "lat": "43.208775",
                   "lon": "-4.759878",
-                  "type": "mountain",
+                  "type": "Mountain",
                   "name": "The Peaks of Europe's route",
                   "images": [
                     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG/1024px-106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG",
@@ -201,7 +201,7 @@
                     "id": "LagosDeCovadonga",
                     "lat": "43.27219267969067",
                     "lon": "-4.9923967691425135",
-                    "type": "church",
+                    "type": "Lago",
                     "name": "Subida a los Lagos de Covadonga",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LAGOS_DE_COVADONGA_5.jpg/1920px-LAGOS_DE_COVADONGA_5.jpg",
@@ -221,7 +221,7 @@
                     "id": "RioCares",
                     "lat": "43.25656977611239",
                     "lon": "-4.836418605289387",
-                    "type": "river",
+                    "type": "Río",
                     "name": "Ruta del Cares de Poncebos a Caín",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruta_del_Cares_Puente.jpg/1280px-Ruta_del_Cares_Puente.jpg",
@@ -241,7 +241,7 @@
                     "id": "ValleDelLago",
                     "lat": "43.04653513424318",
                     "lon": "-6.138110205017116",
-                    "type": "lake",
+                    "type": "Lago",
                     "name": "La ruta del Valle del Lago",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg/1024px-Valle_de_Lago_%28Somiedo%2C_Asturias%29.jpg",
@@ -261,7 +261,7 @@
                     "id": "RefugioDeLaTerenosa",
                     "lat": "43.2272742561026",
                     "lon": "-4.792573443363746",
-                    "type": "refugio",
+                    "type": "Refugio",
                     "name": "Refugio de la Terenosa desde el Collado de Pandébano",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pico_Urriello_Asturias.JPG/1024px-Pico_Urriello_Asturias.JPG",
@@ -281,7 +281,7 @@
                     "id": "SendaDelOso",
                     "lat": "43.222345",
                     "lon": "-5.646789",
-                    "type": "senda",
+                    "type": "Senda",
                     "name": "Senda del Oso",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Katmai_Sow_and_Cubs.JPG/1024px-Katmai_Sow_and_Cubs.JPG",
@@ -300,7 +300,7 @@
                     "id": "RutaDeLasXanas",
                     "lat": "43.369821",
                     "lon": "-6.110324",
-                    "type": "sebda",
+                    "type": "Desfiladero",
                     "name": "Ruta de las Xanas",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pelugano-primavera.jpg/1280px-Pelugano-primavera.jpg",
@@ -320,7 +320,7 @@
                     "id": "RutaDeLasFuentes",
                     "lat": "43.454689",
                     "lon": "-5.661234",
-                    "type": "trail",
+                    "type": "Fuente",
                     "name": "Ruta de las Fuentes",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pelugano-primavera.jpg/1280px-Pelugano-primavera.jpg",
@@ -340,7 +340,7 @@
                     "id": "PicosDeEuropa",
                     "lat": "43.208775",
                     "lon": "-4.759878",
-                    "type": "mountain",
+                    "type": "Montaña",
                     "name": "Ruta de los Picos de Europa",
                     "images": [
                       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG/1024px-106-_Torre_Bermeja_y_Pe%C3%B1a_Santa_desde_el_camino_a_Collado_Jermoso.JPG",
