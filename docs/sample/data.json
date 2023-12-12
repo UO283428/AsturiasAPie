@@ -2,8 +2,8 @@
     "meta": {
         "app_id": "asturias.a.pie",
         "app_title": "Asturias a pie - Paraiso Natural",
-        "version": 1,
-        "updated": "2022-10-04",
+        "version": 2.0,
+        "updated": "2023-12-12",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
@@ -16,7 +16,7 @@
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
-                "text_info": "This application is designed to help anyone interested in the natural wealth of Asturias. It promotes routes and different points of interest in the richness of the Asturian landscape. Asturias Natural Paradise.",
+                "text_info": "This application is designed to help anyone interested in the natural wealth of Asturias. It promotes routes and different points of interest in the richness of the Asturian landscape. Asturias Natural Paradise. This version was made by Carlos Triana: github.com/UO283428/AsturiasAPie",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
@@ -191,9 +191,9 @@
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
-                "text_info": "Esta aplicación está pensada para poder ayudar a cualquiera a interesarse por la riqueza natural de Asturias. Promueve rutas y diferentes puntos de interés en la riqueza del paisaje asturiano. Asturias Paraiso Natural.",
-                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
-                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
+                "text_info": "Esta aplicación está pensada para poder ayudar a cualquiera a interesarse por la riqueza natural de Asturias. Promueve rutas y diferentes puntos de interés en la riqueza del paisaje asturiano. Asturias Paraiso Natural. Esta versión fue creada por Carlos Triana: github.com/UO283428/AsturiasAPie",
+                "text_acknowledge": "Esta quick app es un proyecto de código abierto impulsado por contenido de libre acceso y enriquecido por la comunidad. La mayor parte de la información fue extraída de Wikidata, OpenStreetMaps y otras fuentes públicas. Puede encontrar imprecisiones, así que pedimos disculpas de antemano.",
+                "text_feedback": "Por favor, avísanos si deseas contribuir con tu experiencia, enriquecer el contenido, corregir inexactitudes o enviar imágenes. Esta aplicación ha sido creada por locals y también expertos.",
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
